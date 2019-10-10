@@ -9,7 +9,7 @@ typedef struct {
 	unsigned int CON;
 	unsigned int DAT;
 }gpx1;
-#define GPX1 (*(gpx1*)0x11000c20) //led3 gpx1-0
+#define GPX1aaaaa (*(gpx1*)0x11000c20) //led3 gpx1-0
 
 typedef struct {
 	unsigned int CON;
