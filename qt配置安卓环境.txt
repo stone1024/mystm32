@@ -1,0 +1,19 @@
+
+
+1.QT 安装并配置 (Qt高版本，Qt5.9以上)
+https://blog.csdn.net/qq_15304853/article/details/79165301
+
+
+https://www.cnblogs.com/CLXiao-1029/p/7292094.html
+2.安装jdk  jdk-8u121-windows-x64 配置
+
+
+3.安装sdk  installer_r24.4.1-windows  配置
+
+4.安装ant  apache-ant-1.10.3-bin   配置
+
+5.安装ndk  android-ndk-r14b-windows-x86_64 
+
+6.配置Qt 环境
+
+7.重启电脑
